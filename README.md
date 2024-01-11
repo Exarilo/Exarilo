@@ -7,8 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/full stack developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="full stack developer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/exarilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="exarilo" height="30" width="40" /></a>
+<a href="https://fr.linkedin.com/in/madery-romain-5a001414b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="full stack developer" height="30" width="40" /></a>
+
+<a href="mailto:romain.madery92@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/480px-Circle-icons-mail.svg.png" alt="exarilo" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
