@@ -63,5 +63,7 @@ IDE :
 
 [Repos Dashboard](https://github.com/Exarilo/Repos-Dashboard) - A dashboard bringing together the different repos.
 
+If you find any of my projects useful and would like to support me, you can make a donation via PayPal.
+
 [![paypal](https://developer.paypal.com/demo/checkout/static/img/paypal-mark.jpg)](https://www.paypal.com/donate/?hosted_button_id=BZVCT8CD7BLWU)
 
