@@ -86,15 +86,15 @@ If you find any of my projects useful and would like to support me, you can make
 |--------------|----------|-------------|
 | [LinkOpener](https://github.com/Exarilo/Flow.Launcher.Plugin.LinkOpener) | C# | A plugin that allows you to open URLs using custom keywords. |
 | [AppUpgrader](https://github.com/Exarilo/Flow.Launcher.Plugin.AppUpgrader) | C# | A plugin that helps keep applications up to date using the `winget` command-line tool to list and upgrade applications. |
-| [REST Helper 🔒]() | C# | Currently in development in a private repository, this plugin enables triggering REST APIs using custom keywords. |
+| [REST Helper 🔒](https://github.com/Exarilo/Flow.Launcher.Plugin.REST_Helper) | C# | Currently in development in a private repository, this plugin enables triggering REST APIs using custom keywords. |
 
 ## School
 | Project Link | Language | Description |
 |--------------|----------|-------------|
-| [Projet-Parle 🔒]() | Flutter/Dart | A collaborative project focused on developing a mobile solution for video conferencing, enabling users to discuss a variety of topics. |
+| [Projet-Parle 🔒](https://github.com/Exarilo/Projet-Parle) | Flutter/Dart | A collaborative project focused on developing a mobile solution for video conferencing, enabling users to discuss a variety of topics. |
 | [Projet-Bibliotheque](https://github.com/Exarilo/ProjetBibliotheque) | Java | A collaborative project designed to parse XML files for managing and storing books in a fictional library. |
 | [QuizzReact](https://github.com/Exarilo/QuizzReact) | React | A collaborative project intended as an introduction to React. |
-| [Calcoolator 🔒]() | Java | A collaborative project focused on developing a mobile application that calculates blood alcohol content based on various factors such as weight, height, and gender. |
+| [Calcoolator 🔒](https://github.com/Exarilo/Calcoolator) | Java | A collaborative project focused on developing a mobile application that calculates blood alcohol content based on various factors such as weight, height, and gender. |
 | [Studiride](https://github.com/Kesu19/Projet-Lab) | Ionic Angular | A collaborative project aimed at creating a carpooling application exclusively for members of the same school. |
 | [GestionTicketSpectacle](https://github.com/Exarilo/GestionTicketSpectacle) | C# | A collaborative project aimed at managing ticket reservations for shows. |
 
@@ -109,7 +109,7 @@ If you find any of my projects useful and would like to support me, you can make
 ## Tools
 | Project Link | Language | Description |
 |--------------|----------|-------------|
-| [Discord-Scheduler 🔒]() | C# | Allows retrieving messages from Discord channels, displaying them by date in a calendar, and applying filters. |
+| [Discord-Scheduler 🔒](https://github.com/Exarilo/Discord-Scheduler) | C# | Allows retrieving messages from Discord channels, displaying them by date in a calendar, and applying filters. |
 | [FileCompression](https://github.com/Exarilo/FileCompression) | Jupyter, Python | Allows compressing any file into an image, with each set of 4 bytes converted into one RGBA pixel. |
 | [MarkdownNotepad](https://github.com/Exarilo/MarkdownNotepad) | C# | Allows taking notes and displays the rendered Markdown when the F7 key is pressed. |
 | [DevTools](https://github.com/Exarilo/DevTools) | C# | By pressing a shortcut, builds an overlay on the current screen with a set of tools for development. |
