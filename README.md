@@ -25,13 +25,9 @@ Programming Languages :
 
 <div style="display: flex;">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=a263da" style="margin-right: 10px;">
-
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f89917">
-
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3673a5">
-
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3673a5">
 </div>
-
 
 Web Development :  
 
@@ -39,7 +35,7 @@ Web Development :
    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=2d53e4">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express js&svgfill=2d53e4">
+   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=efd81d">
 </div>
 
 Databases : 
@@ -47,15 +43,6 @@ Databases :
 <div style="display: flex;">
    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=e48e00">
    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=oracle&svgfill=ff0808">
-</div>
-
-IDE : 
-
-<div style="display: flex;">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visual studio&svgfill=ac7ee1">
-
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visual studio code&svgfill=2db1f4">
-
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=exarilo&show_icons=true&locale=en&layout=compact" alt="exarilo" /></p>
