@@ -3,64 +3,63 @@
 </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=exarilo&label=Profile%20views&color=0e75b6&style=flat" alt="exarilo" /> </p>
-<h3 align="center">A french full stack developer</h3>
-
-### Connect with me:
- 
-
-<a href="mailto:romain.madery92@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/romain-madery-5a001414b/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=exarilo&theme=onedark" alt="exarilo" /></p>
-
-
-Programming Languages : 
-
-
-<div style="display: flex;">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=a263da" style="margin-right: 10px;">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f89917">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3673a5">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=efd81d">
+<div align="center">
+  <a href="mailto:romain.madery92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/romain-madery-5a001414b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=exarilo&style=for-the-badge&color=0e75b6" alt="profile views" />
 </div>
 
-Web Development :  
+<img src="https://github-profile-trophy.vercel.app/?username=exarilo&theme=onedark" alt="exarilo" />
 
+## Skills & Technologies
+
+### Programming Languages
 <div style="display: flex;">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=2d53e4">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-Databases : 
-
+### Web Development
 <div style="display: flex;">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=e48e00">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=oracle&svgfill=ff0808">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=exarilo&show_icons=true&locale=en&layout=compact" alt="exarilo" /></p>
+### Databases
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exarilo&" alt="exarilo" /></p>
+### Tools & Platforms
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
-[Repos Dashboard](https://github.com/Exarilo/Repos-Dashboard) - A dashboard bringing together the different repos.
+<br>
 
- ---
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=exarilo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="exarilo" />
+</div>
 
-If you find any of my projects useful and would like to support me, you can make a donation via PayPal.
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exarilo&theme=tokyonight" alt="exarilo" />
+</div>
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=BZVCT8CD7BLWU)
+##  Projects
 
- ---
-
-
-# My Projects
+[Repos Dashboard](https://github.com/Exarilo/Repos-Dashboard) - A dashboard bringing together all my different repositories.
 
 ## Table of Contents
 - [Flow Launcher Plugins](#flow-launcher-plugins)
@@ -103,3 +102,15 @@ If you find any of my projects useful and would like to support me, you can make
 | [InputReplicator](https://github.com/Exarilo/InputReplicator) | C# | Allows recording a series of user actions and replaying the sequences. |
 | [CmdExtension](https://github.com/Exarilo/CmdExtension) | C# | A copy of the command prompt with additional actions. |
 | [DofusHelperOCR](https://github.com/Exarilo/DofusHelperOCR) | C# | Using text recognition in an image, it retrieves the prices of various resources in the game Dofus and determines which resources to buy for profit. |
+
+---
+
+##  Support
+
+If you find any of my projects useful and would like to support me, you can make a donation via PayPal.
+
+<div align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=BZVCT8CD7BLWU">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</div>
